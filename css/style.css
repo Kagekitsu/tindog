@@ -4,8 +4,15 @@
   animation: gradient-animation 18s ease infinite;
 }
 
-.d-block {
-  padding: 5px auto 0;
+
+.title {
+  padding-top: 5px;
+  margin-bottom: 0;
+}
+
+.features {
+  margin-top: 5px;
+  padding-top: 5px;
 }
 
 @keyframes gradient-animation {
